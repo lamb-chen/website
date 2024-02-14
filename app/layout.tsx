@@ -10,12 +10,12 @@ export default function RootLayout({
     // my = mt-6 and mb-6 (margin top, margin bottom)
     const header = (
       <header>
-        <div className="text-center p-8 my-6 rounded-md">
+        <div className="text-center p-6 my-5 mx-30 rounded-lg bg-yellow-50">
           {/* <Image src="/four-leaf.png" width={40} height={40} className="mx-auto" alt="Drawing of four leaf clover"/> */}
           <Link href="/">
-            <h1 className="text-2xl text-white font-bold mt-4">lamb with a 🐝</h1>
+            <h1 className="text-2xl text-yellow-900 font-bold mt-4 ">lamb with a 🐝</h1>
           </Link>
-          <p className="text-slate-300">enjoy your stay // 歡迎 ~</p>
+          <p className="text-yellow-600">enjoy your stay // 歡迎 ~</p>
         </div>
       </header>
     );

@@ -34,7 +34,7 @@ export default function RootLayout({
     );
 
     return (
-    <html className="min-h-screen bg-green-900">
+    <html className="min-h-screen bg-yellow-200">
         <head/>
         <body>
           <div className="mx-auto max-w-2xl px-6">

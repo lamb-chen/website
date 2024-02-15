@@ -40,7 +40,7 @@ export default function RootLayout({
             <Navbar/>
           </div>
         </div>
-        <div className="ml-10 max-w-2xl pt-28 flex-grow">
+        <div className="mx-auto ml-5 max-w-2xl pt-28 flex-grow">
           {children}
           {footer}
         </div>

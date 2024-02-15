@@ -26,12 +26,13 @@
       /* Adjust the padding for the header as needed */
       padding-top: 0.25em;
       position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
+      left: 50%;
+      transform: translateX(-50%);
+
     }
 
     .pt-28 {
+      margin: auto;
       padding-top: 14em;
       padding-left: 2em;
       padding-right: 2em;

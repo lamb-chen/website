@@ -5,10 +5,10 @@ const PostPreview = (props: PostMetadata) => {
     return ( 
     <div className="p-4 rounded-md shadow-m">
         <Link href={`/posts/${props.slug}`}>
-            <h2 className="font-bold text-white hover:underline">{props.title}</h2>
+            <h2 className="font-bold text-customTitle hover:underline">{props.title}</h2>
         </Link>
-        <p className="text-sm text-slate-300">{props.date}</p>
-        <p className="text-slate-200">{props.subtitle}</p>
+        <p className="text-sm text-customText ">{props.date}</p>
+        <p className="text-customSubtext">{props.subtitle}</p>
     </div>
     );
 }

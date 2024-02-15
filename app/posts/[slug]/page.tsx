@@ -23,40 +23,40 @@ const PostPage = (props: any) => {
   const slug = props.params.slug;
   const post = getPostContent(slug);
   return (
-    <div className="text-white">
-      <h1 className="text-3xl">{post.data.title}</h1>
-      <p className="text-slate-300 my-3">{post.data.date}</p>
-      <article className="prose lg:prose-xl">
-      <ReactMarkdown
-          components={{
-            // Style links
-            a: ({ node, ...props }) => (
-              <a className="text-white hover:underline" {...props} />
-            ),
-            // Style headings
-            h4: ({ node, ...props }) => (
-              <h4 className="text-2xl text-white" {...props} />
-            ),
-            h2: ({ node, ...props }) => (
-              <h2 className="text-xl text-white" {...props} />
-            ),
-            h3: ({ node, ...props }) => (
-              <h3 className="text-lg text-white" {...props} />
-            ),
-            p: ({ node, ...props }) => (
-              <p className="text-lg text-white" {...props} />
-            ),
-            code: ({ node, ...props }) => (
-              <code className="text-lg text-white" {...props} />
-            ),
-            li: ({ node, ...props }) => (
-              <li className="text-lg text-white" {...props} />
-            ),
-            // Add more heading levels if needed
-          }}
-        >
-          {post.content}
-        </ReactMarkdown>
+    <div className="text-customText">
+      <article className="prose flex-grow w-full text-customText">
+        <h1 className="text-2xl text-customText">{post.data.title}</h1>
+        <p className="my-3">{post.data.date}</p>
+        <ReactMarkdown
+            components={{
+              // Style links
+              a: ({ node, ...props }) => (
+                <a className="text-customText hover:underline" {...props} />
+              ),
+              // Style headings
+              h4: ({ node, ...props }) => (
+                <h4 className="text-customText" {...props} />
+              ),
+              h2: ({ node, ...props }) => (
+                <h2 className="text-customText" {...props} />
+              ),
+              h3: ({ node, ...props }) => (
+                <h3 className="text-customText" {...props} />
+              ),
+              p: ({ node, ...props }) => (
+                <p className="whitespace-nowrap text-customText" {...props} />
+              ),
+              code: ({ node, ...props }) => (
+                <code className="text-customText" {...props} />
+              ),
+              li: ({ node, ...props }) => (
+                <li className="text-customText" {...props} />
+              ),
+              // Add more heading levels if needed
+            }}
+          >
+            {post.content}
+          </ReactMarkdown>
       </article>
     </div>
   );

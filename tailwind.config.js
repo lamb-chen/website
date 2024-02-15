@@ -6,6 +6,13 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    colors: {
+      customBG: '#3e678a',
+      customHeading: '#fff8cf',
+      customSubtext: '#fff8cf',
+      customText: '#fff8cf',
+      customTitle: '#fff8cf',
+    },
   },
   plugins: [
     require('@tailwindcss/typography'),

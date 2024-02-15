@@ -1,7 +1,6 @@
 import Link from "next/link";
 import "../styles/globals.css";
 import { Navbar } from './components/Navbar';
-import Image from "next/image";
 
 export default function RootLayout({
   children,
@@ -21,19 +20,19 @@ export default function RootLayout({
       </header>
     );
 
-    // const footer = (
-    //   <footer>
-    //     <div className="border-t border-dashed border-slate-400 mt-6 py-6 text-center text-customHeading">
-    //       <p className="text-left">have a nice day :D</p>
-    //     </div>
-    //   </footer>
-    // );
+    const footer = (
+      <footer>
+        <div className="border-t border-solid mt-6 py-6 text-center text-customHeading">
+          {/* <p className="text-sm text-left"></p> */}
+        </div>
+      </footer>
+    );
 
     return (
     <html className="min-h-screen bg-customBG">
         <head/>
         <body className="flex">
-        <div className="pt-10">
+        <div className="pt-4 pl-5">
           <div>
             {header}
           </div>
@@ -41,9 +40,9 @@ export default function RootLayout({
             <Navbar/>
           </div>
         </div>
-        <div className="ml-10 max-w-2xl pt-40 flex-grow">
+        <div className="ml-10 max-w-2xl pt-28 flex-grow">
           {children}
-          {/* {footer} */}
+          {footer}
         </div>
       </body>
     </html>

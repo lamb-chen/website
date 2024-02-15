@@ -44,7 +44,7 @@ const PostPage = (props: any) => {
                 <h3 className="text-customText" {...props} />
               ),
               p: ({ node, ...props }) => (
-                <p className="whitespace-nowrap text-customText" {...props} />
+                <p className="text-customText" {...props} />
               ),
               code: ({ node, ...props }) => (
                 <code className="text-customText" {...props} />

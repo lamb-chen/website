@@ -12,14 +12,12 @@ const ConnectPage = () => {
       <article className='prose'>
       <ReactMarkdown
           components={{
-            // Style links
             a: ({ node, ...props }) => (
-              <a className="text-sm text-customText no-underline hover:underline" {...props} />
+              <a className="text-customText no-underline hover:underline" {...props} />
             ),
             h3: ({ node, ...props }) => (
               <h3 className="text-customText no-underline hover:underline" {...props} />
             ),
-            // Add more heading levels if needed
           }}
         >{connect.content}</ReactMarkdown>
       </article>

@@ -12,7 +12,6 @@ const AboutPage = () => {
       <article className='prose'>
       <ReactMarkdown
           components={{
-            // Style links
             a: ({ node, ...props }) => (
               <a className="text-customText hover:text-" {...props} />
             ),
@@ -28,7 +27,14 @@ const AboutPage = () => {
             li: ({ node, ...props }) => (
               <li className="text-customText" {...props} />
             ),
-            // Add more heading levels if needed
+            img: ({ alt, src, ...props }) => (
+              <img
+                alt={alt}
+                src={src}
+                style={{ padding: '1.5em', maxHeight: '20em', height: 'auto',  margin: '0 auto',}}
+                {...props}
+              />
+            ),
           }}
         >{about.content}</ReactMarkdown>
       </article>

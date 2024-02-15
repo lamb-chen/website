@@ -27,6 +27,8 @@
       padding-top: 0.25em;
       position: absolute;
       left: 50%;
+      margin-left: 0;
+      padding-left: 0;
       transform: translateX(-50%);
 
     }

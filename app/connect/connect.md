@@ -7,6 +7,6 @@ date: "15-02-2024"
 
 [☆ Email ✉️](mailto:lambjchen@gmail.com)
 
-[☆ Github 🐙](https://github.com/lamb-chen/lamb-chen)
+[☆ Github 🐙](https://github.com/lamb-chen)
 
 [☆ Linkedin 👤](https://www.linkedin.com/in/lambchen/)

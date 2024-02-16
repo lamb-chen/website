@@ -34,4 +34,4 @@ I deployed this site on Vercel (thanks Benedict for the guidance)! Not sure when
 No use for a navbar if there aren't any pages to navigate to! Lots of adjusting and styling of the different components. Colour picking could be a full time job.   
 
 ### 6: Fun features
-Found this Spotify Status Markdown Widget from a [stack overflow post](https://github.com/kittinan/spotify-github-profile?tab=readme-ov-file). Can be found directy [here](https://github.com/kittinan/spotify-github-profile). Added it to my [about](/app/about/) page!
+Found this Spotify Status Markdown Widget from a [stack overflow post](https://github.com/kittinan/spotify-github-profile?tab=readme-ov-file). Can be found directly [here](https://github.com/kittinan/spotify-github-profile). Added it to my [about](https://lambchen.vercel.app/about) page!

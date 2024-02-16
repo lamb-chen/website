@@ -6,13 +6,13 @@ date: "15-02-2024"
 
 ello! 
 
-i'm lamb - a second year computer science student at the [university of bristol](https://www.bristol.ac.uk/). creating this blog has been a lot of fun, and realised how daunting it is to work from a clean slate. how DO i want this to look?!  
+i'm lamb - a second year computer science student at the [university of bristol](https://www.bristol.ac.uk/). creating this blog has been a lot of fun, and realised how daunting it is to work from a clean slate. how DO i want this to look?! 
 #### currently
 ◇ recovering from illness 🤒   
 ◇ training for the bristol half marathon    
 ◇ studying, studying, studying   
 ◇ listening to:   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flamalamb&cover_image=true&theme=default&show_offline=false&background_color=e8e2d9&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=flamalamb&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flamalamb&cover_image=true&theme=default&show_offline=false&background_color=985f3a&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=flamalamb&redirect=true)
 
 #### loves
 ◇ blue skies, the sun beaming   

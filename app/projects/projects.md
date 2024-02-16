@@ -3,6 +3,13 @@ title: "projects"
 ---
 ~ some stuff I enjoyed creating...
 
+### **𖦹 This blog !!**  
+
+🛠️ **Next.js, TypeScript, Tailwind CSS, Markdown**      
+📅 **Feb 2024**   
+Stumbling across [Benedict Neo's blog](https://www.bneo.xyz/), I became inspired to finally make my own website! I have always wanted to make a website and after 2 failed attempts over the years, I finally have created something I can build upon. Hoping to use this website as a portfolio, as well as a space to record things I have learnt and various thoughts. I wrote a [brief log](https://lambchen.vercel.app/posts/new-bloggings) documenting the initial creation of the blog. 
+
+
 ### **𖦹 Secret Santa Email Sender**  
 
 🛠️ **Python**      

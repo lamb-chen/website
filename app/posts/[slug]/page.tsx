@@ -29,11 +29,9 @@ const PostPage = (props: any) => {
         <p className="my-3">{post.data.date}</p>
         <ReactMarkdown
             components={{
-              // Style links
               a: ({ node, ...props }) => (
                 <a className="text-customText hover:underline" {...props} />
               ),
-              // Style headings
               h4: ({ node, ...props }) => (
                 <h4 className="text-customText" {...props} />
               ),
@@ -52,7 +50,9 @@ const PostPage = (props: any) => {
               li: ({ node, ...props }) => (
                 <li className="text-customText" {...props} />
               ),
-              // Add more heading levels if needed
+              em: ({ node, ...props }) => (
+                <em className="text-customText" {...props} />
+              ),
             }}
           >
             {post.content}

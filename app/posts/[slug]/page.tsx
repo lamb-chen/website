@@ -14,6 +14,7 @@ const getPostContent = (slug: string) => {
 
 export const generateStaticParams = async () => {
   const posts = getPostMetadata();
+  posts.sort((a, b) => (new Date(b.date) as any) - (new Date(a.date) as any));
   return posts.map((post) => ({
     slug: post.slug,
   }));

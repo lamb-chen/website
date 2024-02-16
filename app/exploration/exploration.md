@@ -5,6 +5,14 @@ date: "15-02-2024"
 ---
 ~ additional invaluable experiences i have had
 
+### **𖦹 Playing Volleyball**   
+
+🛠️ **Teamwork, Communication, Commitment**      
+📅 **2017 - 2023**  
+📍 **UK** 
+
+Initially, I played in a local team when I was younger and got to take part in regional competitions, enabling me to gain more confidence in myself and meet new people. The team also consisted of adults, most of whom had families or were working full time jobs but I was glad they all still made time for their passion. During the pandemic, I stopped playing from 2019 to 2021 but started again when I joined the University of Bristol Women's C Team in 2022. Being part of the university team felt like a lot of commitment with 2 trainings and a match a week. I am seriously amazed by the dedication everyone on a sports team has! For second year I chose to sacrifice volleyball for a greater breadth of activites (salsa, swimming, running, and increasing my visits to the gym) to explore new hobbies. 
+
 ### **𖦹 Gold, Silver and Bronze Duke of Edinburgh Awards**   
 
 🛠️ **Teamwork, Communication**      

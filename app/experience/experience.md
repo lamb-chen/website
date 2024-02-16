@@ -17,9 +17,10 @@ My eyes finally opened to how much effort and time it takes to organise events a
 There was also no previous GDSC Club established for the University of Bristol, bringing me the opportunity to learn how to grow a club from nothing.   
 
 Lessons on leadership I discovered:
-- You need to define specific tasks for your team to do. The more information and detail you give, the better the tasks will be executed. This means more efficient, faster and higher quality.
-- Encourage more communication
-- Patience is important!
+- You need to define specific tasks for your team to do. The key is specific. More information and detail equals a higher equality, more efficient and faster completion of the tasks. This was my first role that I felt truly responsible for a team of people. They would not know what to do if I did not tell them, particularly as there was no club prior that we could copy the example of.
+- Encourage regular communication
+- Patience is important! 
+- The effort does pay off. Before events I get anxious that nobody will turn up but I am always pleasantly surprised. 
 
 ### **𖦹 Winning JP Morgan's Code for Good Hackathon**  
 

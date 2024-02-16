@@ -11,4 +11,6 @@ However articulation may not be the only worry. Instead it may be the actual sub
 
 I think also being open to talking about anything and treating it as (almost equal) importance as if you were talking about something else. Of course, if a friend is going through a hard time then conversations surrounding that would be more important, and require greater attention, but also don't go dismissing topics as meaningless or boring. There exists no concrete definition of "meaningless" or "boring" conversation so don't be the one to create the definition!  
 
-Likely this is just mostly another symptom of being ill.  
+I easily assume people do not want to speak to me so I tend to not want to bother them though I should reslly just keep pushing what energy I do have irrespective of my assumptions. Until I have definitive reasoning as to why they actually do not want to speak to me, I should not discredit myself so quickly. Some contexts it best to match the tone and energy that the other person or people are giving but sometimes it can be better to not match.  
+
+Likely these thoughts are just mostly a symptom of being ill.  

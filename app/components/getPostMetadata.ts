@@ -19,7 +19,7 @@ const getPostMetadata = (): PostMetadata[] => {
         slug: fileName.replace(".md", ""),
       };
     });
-  
+
     return posts;
   }
 

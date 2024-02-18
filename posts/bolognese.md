@@ -43,7 +43,7 @@ My boyfrend got me a dutch oven for Christmas and it is simply perfect for cooki
 ![Photo of red wine being poured into a pot of bolognese.](/images/post-mix-pasta.jpeg)
 
 ### Review   
-IT TASTED SO GOOD! DELICIOUS, YUMMY, SCRUMMY, DELECTABLE!! My appetite recently reduced from being ill but this has set me back straight. My flatmates all wanted some hehehe I am looking forward to eating this again tomorrow mmmm. This will definitely become a new staple, it's so easy to make. One pot wonder!
+IT TASTED SO GOOD! DELICIOUS, YUMMY, SCRUMMY, DELECTABLE!! It was exactly how I hoped it would taste. My appetite recently reduced from being ill but this has set me back straight. My flatmates all wanted some hehehe I am looking forward to eating this again tomorrow mmmm. This will definitely become a new staple, it's so easy to make. One pot wonder!
 
 P had also added double cream to dilute the saltiness of the sauce as he had added too much salt. I am unsure on the discourse surrounding adding cream to bolognese but I enjoyed it so did the same. I added the cream directly to the bowl so the sauce would keep better in the fridge.  
 

@@ -39,4 +39,4 @@ As part of my Gold DofE, I needed to complete a 1-week residential of some sort.
 📅 **June 2022 - Sep 2022**  
 📍 **Devon, UK**  
 
-Working at Wagamamas put me in a high pressure environment almost everday. 
+Working at Wagamamas put me in a high pressure environment almost everyday. My favourite part of the job was speaking to new people each shift and learning about who they are. Getting to connect with so many people all the time is what makes being a waitress interesting!

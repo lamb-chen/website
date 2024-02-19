@@ -1,7 +1,7 @@
 ---
 title: "Loss functions"
 subtitle: "and the mathematics behind them"
-date: "16-02-24"
+date: "Feb 16, 2024"
 ---
 This is in relation to classification.  
 

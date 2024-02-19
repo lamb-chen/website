@@ -1,7 +1,7 @@
 ---
 title: "New blogginings"
 subtitle: "the journey of building this blog"
-date: "14-02-24"
+date: "Feb 14, 2024"
 ---
 Happy Valentine's Day!  
 

@@ -1,6 +1,8 @@
 import Link from "next/link";
 import "../styles/globals.css";
 import { Navbar } from './components/Navbar';
+import { Analytics } from "@vercel/analytics/react";
+
 
 export default function RootLayout({
   children,
@@ -30,6 +32,7 @@ export default function RootLayout({
 
     return (
     <html className="min-h-screen bg-customBG">
+        <Analytics/>
         <head/>
         <body className="flex">
         <div className="pt-4 pl-5">

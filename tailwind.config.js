@@ -12,6 +12,7 @@ module.exports = {
       customSubtext: '#fff8cf',
       customText: '#fff8cf',
       customTitle: '#fff8cf',
+      customLine: '#e8ddcc',
     },
   },
   plugins: [

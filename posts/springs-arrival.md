@@ -8,3 +8,6 @@ This morning I walked past a flowering tree adorned in cherry blossom, its petal
 
 \* On 2nd February every year, the groundhog seeks its shadow. If it sees its own shadow, there'll be 6 more weeks of winter and if it doesn't see its own shadow, it'll be an early spring!
 
+![Ladybird on a white skirt](/images/ladybird.jpeg)
+
+A tiny friend decided to join me for my lunch! :D

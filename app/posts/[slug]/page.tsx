@@ -27,6 +27,7 @@ const PostPage = (props: any) => {
     <div className="text-customText">
       <article className="prose flex-grow w-full text-customText">
         <h1 className="text-2xl text-customText">{post.data.title}</h1>
+        <p>{post.data.subtitle}</p>
         <p className="my-3">{post.data.date}</p>
         <ReactMarkdown
             components={{

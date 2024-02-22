@@ -7,7 +7,10 @@ const HomePage = () => {
     // ...post gets all the post.title, post.date etc.
     <PostPreview key={post.slug} {...post} />
   ));
-  return <div>{postPreviews}</div>
+  return <div>
+    <h2 className="text-xl pb-2 underline decoration-wavy decoration-customLine font-bold text-customText"> Notes </h2>
+    {postPreviews}
+    </div>
 };
 
 export default HomePage

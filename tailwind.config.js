@@ -14,6 +14,7 @@ module.exports = {
       customTitle: '#fff8cf',
       customLine: '#e8ddcc',
     },
+    backgroundImage: {}
   },
   plugins: [
     require('@tailwindcss/typography'),

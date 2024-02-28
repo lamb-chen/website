@@ -15,7 +15,7 @@ export default function RootLayout({
         <div className="text-center p-6 my-5 mx-30 rounded-lg text-customHeading">
           {/* <Image src="/four-leaf.png" width={40} height={40} className="mx-auto" alt="Drawing of four leaf clover"/> */}
           <Link href="/">
-            <h1 className="text-base font-bold mt-4 hover:underline">lamb with a 🐝 </h1>
+            <h1 className="font-bold mt-4 hover:underline text-base">lamb with a 🐝 </h1>
           </Link>
           {/* <p className="text-customSubtext">welcome // 歡迎 ~</p> */}
         </div>

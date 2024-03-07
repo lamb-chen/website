@@ -2,9 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-/* html {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-} */
+li::marker {
+  color: #754305;
+}
+
+ul::marker {
+  color: #754305;
+}
 
 @media screen and (max-width: 768px) {
     .flex {

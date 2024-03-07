@@ -1,5 +1,5 @@
 ---
-title: "Springs arrival"
+title: "Spring has Sprung ~"
 subtitle: "something has changed"
 date: "Feb 18, 2024"
 ---

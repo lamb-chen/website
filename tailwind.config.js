@@ -16,6 +16,7 @@ module.exports = {
       customText: '#754305',
       customTitle: '#754305',
       customLine: '#a66311',
+      customBlockquote: '#a14e00',
       // customSubBG: '#ebebeb',
     },
     backgroundImage: {

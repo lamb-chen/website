@@ -16,7 +16,7 @@ const ConnectPage = () => {
               <a className="text-customText no-underline hover:underline" {...props} />
             ),
             h3: ({ node, ...props }) => (
-              <h3 className="text-customText no-underline hover:underline" {...props} />
+              <h3 className="text-customText" {...props} />
             ),
           }}
         >{connect.content}</ReactMarkdown>

@@ -1,5 +1,5 @@
 ---
-title: "New blogginings"
+title: "New Blogginings"
 subtitle: "the journey of building this blog"
 date: "Feb 14, 2024"
 ---

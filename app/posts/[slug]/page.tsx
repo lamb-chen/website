@@ -20,6 +20,7 @@ export const generateStaticParams = async () => {
   }));
 }
 
+
 const PostPage = (props: any) => {
   const slug = props.params.slug;
   const post = getPostContent(slug);
@@ -49,11 +50,17 @@ const PostPage = (props: any) => {
               code: ({ node, ...props }) => (
                 <code className="text-customText" {...props} />
               ),
-              li: ({ node, ...props }) => (
-                <li className="text-customText" {...props} />
+              ul: ({ node, ...props }) => (
+                <ul className="text-customText" {...props} />
+              ),
+              ol: ({ node, ...props }) => (
+                <ol className="text-customText" {...props} />
               ),
               em: ({ node, ...props }) => (
                 <em className="text-customText" {...props} />
+              ),
+              blockquote: ({ node, ...props }) => (
+                <blockquote className="border-customBlockquote text-customBlockquote" {...props} />
               ),
             }}
           >

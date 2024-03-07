@@ -12,6 +12,7 @@ An ongoing mission I have is to build a better picture of who I am. I want to pi
 ☆ What am I not good at?  
 ☆ What would I like to improve?  
 ☆ Any mistakes I have made recently that I have learnt from?  
+I will also try to find people that can help unpack things with me.   
 
 ### Strengths
 #### 1. If I'm going to do something, I'm doing it right

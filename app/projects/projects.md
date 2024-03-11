@@ -1,7 +1,22 @@
 ---
 title: "projects"
 ---
-~ some stuff I enjoyed creating...
+~ some stuff I enjoyed creating...  
+
+### **𖦹 Kondo AI**     
+🛠️ **Next.js, TypeScript, Tailwind CSS, Supabase**        
+📅 **8-10 March 2024**    
+📍 **Encode AI Hackathon, London, Canary Wharf**  
+I attended the Encode AI Hackathon and met Ayush and John! Together with my two friends, we created Kondo AI during the Encode AI Hackathon.  
+
+[Click here for our repository](https://github.com/netswift2905/encodeai-floorplanner)   
+
+Kondo AI is a floorplanning app that seamlessly transforms real products to scale. It leverages GPT Vision to create an AI companion for personalised reviews and ratings, and gamifies the overall user experience. With accurate scaling of room sizes and furniture it also reduces the hassle of measurement-taking. We further simplify the planning process by tracking both the total costs and physical placement of wishlist furniture items in one place. We have designed web scraping algorithms that reliably find key product content (photos, price, colour, dimensions). LLMs then enhance and structure the scraped content into a JSON object, which becomes translated into an precisely scaled and moveable furniture item within the user’s floor plan. These form building blocks the user can utilise to plan their layouts accurately, with real, to-scale products. Screenshots of their floor plans can be sent to GPT for item suggestions, layout review and budgeting advice.  
+
+Kondo AI is a Next.js application, rendered on the frontend using HTML, Typescript, Javascript, CSS and IMGs. The backend is powered by Supabase.
+![Screenshot of floor planning application](/images/kondoAI.png)
+
+
 
 ### **𖦹 This blog !!**  
 

@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+entries {
+  background-color: grey;
+}
+
 li::marker {
   color: #754305;
 }

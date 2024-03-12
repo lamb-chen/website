@@ -31,11 +31,11 @@ export default function RootLayout({
     );
 
     return (
-    <html className="font-poppins min-h-screen bg-[url('/images/new-grid.jpg')]">
+    <html className="font-poppins min-h-screen bg-lightGrey">
         <Analytics/>
         <head/>
         <body className="flex">
-        <div className="pt-4 pl-5">
+        <div className="pt-4 pl-5 bg-white border rounded-lg m-1 p-1 border-customBorder">
           <div>
             {header}
           </div>
@@ -44,7 +44,7 @@ export default function RootLayout({
           </div>
         </div>
         <div className="mx-auto max-w-2xl pt-28 flex-grow">
-          <div className="bg-customSubBG">
+          <div className="bg-white border rounded-lg p-4 border-customBorder">
             {children}
           </div>
           {footer}

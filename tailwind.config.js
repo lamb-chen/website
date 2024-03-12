@@ -16,7 +16,10 @@ module.exports = {
       customText: '#754305',
       customTitle: '#754305',
       customLine: '#a66311',
+      customBorder: '#949494',
       customBlockquote: '#a14e00',
+      white: '#ffffff',
+      lightGrey: '#d4d4d4',
       // customSubBG: '#ebebeb',
     },
     backgroundImage: {

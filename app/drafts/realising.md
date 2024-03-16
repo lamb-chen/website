@@ -1,0 +1,1 @@
+I realise things I know and feel are second nature, people around me don't actually know.

@@ -3,7 +3,6 @@ import "../styles/globals.css";
 import { Navbar } from './components/Navbar';
 import { Analytics } from "@vercel/analytics/react";
 
-
 export default function RootLayout({
   children,
 }: {
@@ -13,11 +12,9 @@ export default function RootLayout({
     const header = (
       <header>
         <div className="text-center p-6 my-5 mx-30 rounded-lg text-customHeading">
-          {/* <Image src="/four-leaf.png" width={40} height={40} className="mx-auto" alt="Drawing of four leaf clover"/> */}
           <Link href="/">
             <h1 className="font-bold mt-4 hover:underline text-base">lamb with a 🐝 </h1>
           </Link>
-          {/* <p className="text-customSubtext">welcome // 歡迎 ~</p> */}
         </div>
       </header>
     );

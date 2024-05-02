@@ -1,0 +1,27 @@
+---
+title: "life has so many wonders!"
+subtitle: "things i am grateful for."
+date: "May 02, 2024"
+---
+![A woman dressed in pink looking upon a city landscape](/images/wonders1.jpeg) 
+> Some days I feel like this woman. The World has presented me with a great landscape of varying possibilites and adventures. At times, all I can do is just stand and marvel at it all - taking in every last detail.    
+
+This year has been incredible, truly incredible. Life has surprised me with so many beautiful gifts and I need to realise that life will never stop surprising me with such gifts. The beauty is that they arrive when I least expect them to. Certain gifts I remember more clearly than others. In Easter, my friends and I were able to travel to Japan together. That is incredible and we had so much fun. Even though some days we each needed to spend a little time alone to keep sane, I am endlessly grateful to have been able to spend so much with them both so intensely. We do not get to see each other often and I missed their company.    
+
+Then life built an opportunity to for me show them my birthplace. A place I hold so dear to my heart because the memories feel inaccessible to anyone but me. Writing that makes me imagine a small child holding on tight to their toy they do not want to share, but that is not the meaning I intend. That is to say, the idea of sharing these places and memories with anyone was only a fantasy dream. The memories being inaccessible to others is due to the ‘impossibility’ of showing people the places and contexts of these memories are real. Real as they are, they felt a figment of my imagination. Taiwan was a secret I was desparate to scream to the world.      
+
+The effort they put into maintaining contact helps me maintain this connection I do not want to lose. As years go by, I am struggling more and more to tie in place the bonds I have with people. The issue is not us not value our friendship, it is just difficult to consistently stay in contact when you are not in their physical presence everyday anymore. Sometimes you can have too much of a good thing and I have realised I should accept that we will all change in certain ways so when I see some old friends, it may not be the case that things will always be as they were. We may act the same but no longer feel the same. I know I will meet a wild range of new people throughout my life and should remember that.    
+
+During my time in Japan, my friends and I were sat in a random McDonald’s in Gion, Kyoto and I get a call from a HR recruiter. Another gift had been delivered - I received an offer for a summer internship. Summer rolled around and little did I know how incredible the summer would be. I had managed to find a flat an 8 minute walk away from my office in the most beautiful and ideal location. This flat became the root of the memories from that summer. The bedroom windows provided beautiful lighting that would make the entire room sunny and bright. They faced a lovely green square with tall trees that would sway on windy days and as we edged towards autumn, littered the streets with their yellowed leaves.    
+
+I was lucky throughout my time there I had many friends visit. Some rather unexpected. In my first week I realised a friend on my course was staying a road away for a few days whilst he was completing a micro-internship. His presence helped me feel more settled and at home in this big bustling city. I dreamed of getting a internship when I started first year and I made it a reality - hey, I should be more proud of myself.   
+
+After a month, I started sharing my flat with someone. Turns out this someone would later become my boyfriend! The memories we share in this flat were memories of a time neither of us wanted to end but the fact is was going to end eventually makes it even more special.     
+
+I was inspired by my boyfriend to write a post or two on Substack. I say ‘write a post or two’ as saying ‘write’ alone is too suggestive to the fact that this could become anything more. The only experience I have with writing is in my own diary, though the quality and structure of that is hardly akin to anything people write on here. Alas, intimidation cannot stop me! I am hoping to foster my own writing style by creating more opportunites for practice and develop the art of articulation. There is a distinct difference in the feeling I get when writing privately versus publicly. It’s as though different itches get scratched. When writing for myself, I rarely think twice about the way I am committing pen to paper. My diary is a total mess, littered with inconsistent abbreviations and random entries with varying levels of detail. However when writing publicly or academically, I enjoy putting effort into thinking of the delivery and arrangement of my writing. The amount of thought it takes to compose each word helps me think deeper than when merely scribbling down phrases as soon as they come to mind. Perhaps this should be a way to clear any fog in my brain.    
+
+![A cluster of trees](/images/wonders2.jpeg) 
+> A group of people hidden by the trees, the sun shining through the clouds and the tall skyscrapers peeping out. These different elements come together so cohesively.       
+
+
+*This is an old Substack post from Dec 16, 2023. I decided to add it to my entries after a friend stumbled across it and said she enjoyed reading it! I think I would prefer to have my entries all in one space.*     

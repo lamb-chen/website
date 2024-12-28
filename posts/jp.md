@@ -1,3 +1,8 @@
+---
+title: "An honest review of my JP Morgan SWE internship"
+subtitle: "ad-hoc advice and musings"
+date: "Sep 29, 2024"
+---
 ### Summary
 
 Overall the experience was invaluable to me, and I would stress that it is definitely worth applying for. For a higher chance of your application moving forward, apply for their Spring Weeks and Code For Good Hackathons. In some ways, these function as mini assessment centers. 
